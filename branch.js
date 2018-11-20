@@ -26,6 +26,11 @@ function draw() {
 
 }
 
+/**
+ * 递归调用并画出树枝和树干
+ * @param len
+ * @param proportion
+ */
 function branch(len,proportion) {
     //起始线坐标及长度
     line(0, 0, 0, -len);
