@@ -1,6 +1,8 @@
 # 码绘与手绘的对比
 ## 绘图结果
-![image](https://github.com/zzh97228/code-draw/tree.png)
+![image](https://github.com/zzh97228/code-draw/blob/master/tree.png)
+## "运动"主题绘图作业链接
+####    [https://github.com/zzh97228/MotionalPainting](https://github.com/zzh97228/MotionalPainting)
 ## 技巧分析
 -   递归生成子树，并变换树枝的长度和角度
 ```ecmascript 6
